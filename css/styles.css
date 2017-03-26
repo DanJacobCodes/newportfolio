@@ -30,3 +30,7 @@ header{
 h3{
   font-family: 'Bangers', cursive;
 }
+
+li{
+  font-family: monospace;
+}
