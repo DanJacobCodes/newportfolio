@@ -13,4 +13,10 @@ header{
 #me{
   border-radius: 30%;
   display: block;
+  margin: auto;
+  border: 25%;
+  padding: 10;
+  width: 25%%;
+  height: auto;
+  float: inherit;
 }
