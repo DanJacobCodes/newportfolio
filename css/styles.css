@@ -9,3 +9,7 @@ header{
   font-family: 'Rubik Mono One', sans-serif;
   background-color: #b3b3b3;
 }
+
+#me{
+  border-radius: 30%;
+}
