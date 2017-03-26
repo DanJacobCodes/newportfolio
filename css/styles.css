@@ -27,10 +27,11 @@ header{
   font-family:monospace;
 }
 
-h3{
+.font{
   font-family: 'Bangers', cursive;
 }
 
 li{
   font-family: monospace;
+  font-size: 14pt;
 }
