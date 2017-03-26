@@ -1,12 +1,12 @@
-# _{Dan Jacob's portfolio}_
+# _Dan Jacob's portfolio_
 
 #### _{A portfolio with an About Me, Background, Projects, and Interests}, {3/25/17}_
 
-#### By _**{Dan Jacob}**_
+#### By _**Dan Jacob**_
 
 ## Description
 
-_{This portfolio was built for week 1's Independent Project at Epicodus. In this portfolio I tell a brief description of me in the About Me section, my professional and education in the Background section, a list of Projects I've worked on at Epicodus with links to my Git Hub repository, as well as a list of things I like in the Interests section }_
+_This portfolio was built for week 1's Independent Project at Epicodus. In this portfolio I tell a brief description of me in the About Me section, my professional and education in the Background section, a list of Projects I've worked on at Epicodus with links to my Git Hub repository, as well as a list of things I like in the Interests section _
 
 ## Setup/Installation Requirements
 
