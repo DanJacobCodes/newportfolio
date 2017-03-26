@@ -8,6 +8,7 @@ header{
   font-size: 30pt;
   font-family: 'Rubik Mono One', sans-serif;
   background-color: #b3b3b3;
+  border-top: 20%;
 }
 
 #me{
@@ -15,7 +16,7 @@ header{
   display: block;
   margin: auto;
   border: 25%;
-  padding: 10;
+  padding: 15;
   width: 25%%;
   height: auto;
   float: inherit;
@@ -23,4 +24,5 @@ header{
 
 .port{
   font-size: 14pt;
+  font-family:monospace;
 }
