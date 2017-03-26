@@ -19,7 +19,7 @@ _{This portfolio was built for week 1's Independent Project at Epicodus. In this
 * _Link Bootstrap in the head in your HTML file, and begin styling!_
 
 ## Support and contact details
-
+_Visit my portfolio at https://danjacobcodes.github.io/newportfolio/_
 _To contact me directly for portfolio inquiries contact me through email @ dansamueljacob@gmail.com_
 
 ## Technologies Used
